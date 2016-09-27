@@ -1,0 +1,43 @@
+body {background-color: #e0e9f0;
+      opacity: 0.8;
+      color: green;}
+ 
+ul		{font-family: cursive, Courier;
+		font-size: 18px;
+		font-color: blue;}
+
+#fancy {font-family: "cosmic sans ms", "bookman old style" bold;
+			font-size: 14px
+			font-weight: bold;
+			color: purple;}
+
+h1 {font-family: "Handwriting - Dakota", Noteworthy, Arial;}
+
+p.one {box-shadow: 5px 5px 5px 5px #999eef;
+	   width: 900;}
+
+img {border-radius: 150px;}
+
+input[type="submit"] {color: red;
+				background-color: blue;}
+
+nav ul {margin: 15px;
+		padding: 5px 8px 5px 8px;}
+
+nav li {display: inline;
+		margin-right: 60px;}
+
+body#two {font-family: "Handwriting - Dakota";
+	font-size: 16px;
+	font-weight: italic;
+	color: purple;}
+
+ol {color: blue;
+	font-size: 18px;}
+
+
+
+
+
+
+
